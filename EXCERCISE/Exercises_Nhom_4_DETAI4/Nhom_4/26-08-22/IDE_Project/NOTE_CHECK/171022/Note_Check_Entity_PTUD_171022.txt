@@ -1,0 +1,7 @@
+Entity:
+Phong: Thiếu mã loại - dư loại phòng
+TaiKhoan: Bị dư biến "loại tài khoản" trên Java hoặc thiếu biến "loại tài khoản" trên SQL
+NhanVien: Bị dư biến "chức vụ" trên Java hoặc thiếu biến "chức vụ" trên SQL
+ChiTietHoaDonDatPhong: Bị thiếu biến "mã phòng" trên Java hoặc dư biến "mã phòng" trên SQL
+ChiTietHoaDonSanPham: Bị thiếu biến "số lượng", "đơn giá" trên Java hoặc dư biến "số lượng", "đơn giá" trên SQL
+PhieuDatPhong: Bị thiếu biến "nhân viên" trên Java hoặc dư biến "nhân viên" trên SQL

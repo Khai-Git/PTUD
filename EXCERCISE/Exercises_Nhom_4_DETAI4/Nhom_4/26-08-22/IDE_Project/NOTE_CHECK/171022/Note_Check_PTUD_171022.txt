@@ -1,0 +1,21 @@
+Note check (Ngay 17-10-2022)
+- Chưa thống nhất các biến đặt tên cho các button
+- GUI_ManHinhChinh : Khung ngoài sai (Menu hóa đơn -> Màn hình chính hoặc bỏ)
+- GUI_DatPhong : Khung ngoài sai (Màn hình chính -> Menu đặt phòng hoặc bỏ)
+- GUI_HoaDon: Khung ngoài sai (Màn hình chính -> Menu hóa đơn hoặc bỏ)
+- 3 cái giao diện hóa đơn bên trong GUI_HoaDon : xem lại và sửa đúng dữ liệu trong thư mục PIC a đã gửi
+- Có nhiều GUI sau khi chuyển chưa chỉnh đúng tên (name) của cái nút (Button) (VD: sau khi chọn 1 nút trên menu thì chữ Đặt Phòng chưa sửa (Đặt Phong) 
+và Thống kê (Thống kê số liệu)) ==> A đã sửa
+- Chưa có GUI_DichVu
+- Chưa có GUI_Thongke (A và Nhã chưa lên được ý tưởng)
+- Trong các Action chuyển GUI vd:
+private void nhanVien_To_QLNhanVien() {
+	// TODO Auto-generated method stub
+	this.setVisible(false);
+	QLNhanVien nhanvien = new QLNhanVien();
+	nhanvien.setVisible(true);
+	nhanvien.setLocationRelativeTo(null);
+}
+
+Chuyển "this.setVisible(false);" lên trên QLNhanVien, và thống nhất tên cho Back-End dễ nhìn
+Class thì QLNhanVien mà tên biến là nhanvien thì vẫn được nhưng chuyển qua cho Back-End làm thì Back-End dễ bị loạn và tốn rất nhiều thời gian

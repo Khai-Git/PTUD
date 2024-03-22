@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/lib/commons-codec-1.11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/lib/commons-collections4-4.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/lib/commons-compress-1.18.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/lib/poi-4.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/lib/poi-ooxml-4.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/lib/poi-ooxml-schemas-4.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/lib/sqljdbc42.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/lib/xmlbeans-3.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/bin/commons-codec-1.11.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/bin/commons-collections4-4.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/bin/commons-compress-1.18.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/bin/poi-4.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/bin/poi-ooxml-4.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/bin/poi-ooxml-schemas-4.0.1.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/bin/sqljdbc42.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/STUDY/(22-23) HOC KY 1/PHAT TRIEN UNG DUNG/Project/VinhPr/Nhom9_DeTai1_DHKTPM15BTT_PTUD/bin/xmlbeans-3.0.2.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

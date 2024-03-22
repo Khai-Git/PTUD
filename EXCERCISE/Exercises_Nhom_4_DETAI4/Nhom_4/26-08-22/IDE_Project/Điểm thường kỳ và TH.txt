@@ -1,0 +1,6 @@
+PTUD
+Điểm tài liệu 3: 6.0
+Điểm tài liệu 4: 6.0
+Điểm tài liệu 6 DB: 7.0
+Điểm tài liệu 6 UI: 7.0
+Điểm thực hành: 6.5
